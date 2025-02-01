@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello to you 😀, Myself Harish Kalliyan<br><br>🔭 I’m currently working as intern Oasis Infobyte<br><br>🌱 I’m currently learning JS, MongoDB<br><br>📫 How to mail me at harishkalliyan@gmail.com<br><br>⚡ Fun fact I like to experience all stuff even if I fail in it. 😁
+Hello to you 😀, Myself Harish Kalliyan<br><br>🔭 I’m currently working as intern Oasis Infobyte<br><br>🌱 I’m currently learning JS, MongoDB<br><br>📫 Could mail me at harishkalliyan@gmail.com<br><br>⚡ Fun fact I like to experience all stuff even if I fail in it. 😁
 
 
 ## 🌐 Socials:
